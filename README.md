@@ -21,7 +21,7 @@ Before getting started, make sure you have:
 4) Create a security group and allow SSH traffic (port 22) and HTTP traffic (port 80)<br>
 5) Click on Launch Instance.
     
-![website ui]("D:\akanksha_workspace\projects\static-website-hosting\getitbyoffer.com\img\1.png")
+![website ui](./img/1.png)
 ![website ui](./img/2.png)
 
 ### Step 2: Copying Static Website files from local machine to EC2
